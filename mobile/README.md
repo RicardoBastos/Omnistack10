@@ -1,4 +1,5 @@
 ## Comandos
+
 yarn add react-navigation
 expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context
 
@@ -12,3 +13,5 @@ yarn add expo-location
 yarn add react-native-webview
 
 yarn add axios
+
+yarn add socket.io-client
