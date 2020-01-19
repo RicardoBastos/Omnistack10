@@ -1,5 +1,14 @@
 ## Comandos
 
+yarn global add expo-cli
+npm install -g expo-cli
+
+expo init mobile
+blank
+yarn Y
+
+yarn start
+
 yarn add react-navigation
 expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context
 
